@@ -1,0 +1,139 @@
+.App {
+  margin-left: 500px
+}
+
+.Pic {
+  position:absolute;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+
+.Pic1 {
+  position:absolute;
+  padding-left:200px;
+  padding-top: 150px;
+}
+
+.Pic2 {
+  position:absolute;
+  padding-left: 200px;
+  padding-top: 200px;
+}
+
+.Pic3 {
+  position:absolute;
+  padding-left: 100px;
+  padding-bottom: 200px;
+}
+
+.Pic4 {
+  position:absolute;
+  padding-left:108px;
+  padding-top: 100px;
+}
+.Pic5 {
+  position:absolute;
+  padding-left:150px;
+  padding-top:71px;
+}
+.Pic6 {
+  position:absolute;
+  padding-left:120px;
+}
+
+.Pic7{
+  position:absolute;
+  padding-left:120px;
+  padding-top:70px;
+}
+
+.Pic8{
+  position:absolute;
+  padding-left:180px;
+  padding-top:70px;
+}
+
+.Text{
+  position:absolute;
+  padding-left:800px;
+}
+
+.button{
+  border: 2px solid black;
+  background-color: green;
+  color: rgb(199, 30, 30);
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.primary{
+  background-color: white;
+  position:relative;
+  left:800px;
+  top:100px;
+  display:block;
+}
+
+.third{
+  background-color: white;
+  position:absolute;
+  left:500px;
+  top:950px;
+}
+.fourth{
+  background-color: white;
+  position:absolute;
+  left:300px;
+  top:950px;
+}
+.fourth:hover {
+  background-color: purple;
+}
+
+.fourth:focus {
+  background-color: yellow;
+}
+.third:hover {
+  background-color: purple;
+}
+.primary:hover {
+  background-color: purple;
+}
+
+.third:focus {
+  background-color: yellow;
+}
+
+.primary:focus {
+  background-color: yellow;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.secondary{
+  background-color: white;
+  position:relative;
+  left:1200px;
+  top:-300px;
+  display:block;
+  
+}
+
+.secondary:hover {
+  background-color: purple;
+}
+
+.secondary:focus {
+  background-color: yellow;
+}
+.Text2{
+  position:absolute;
+  left:1200px;
+}
